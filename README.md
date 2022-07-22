@@ -13,7 +13,7 @@ Use this section to set an outline and guiding vision describing your work.
 
 ### The Problem (What)
 - A brief description of the problem we're hoping to solve with our work.
-- 
+
 ### Why even do this? (Why)
 - An overview of why this would matter and why it is worth solving.
 
@@ -37,12 +37,12 @@ Use this section to set an outline and guiding vision describing your work.
 # Documentation
 Use this section to get a head start in ensuring your work is reproducible and readers hoping to apply your research can follow along with little hassle. 
 
-## Setup
+### Setup
 - Describe how to set up the project. What are the dependencies, any hardware/software requirements, where/how can we download the data used?
 
-## Train / Test
+### Train / Test
 - If you created an ML system, how can we run the training loop on our machine? How do evaluate the model the same way as the paper?
 - If this isn't an ML system you can still describe the testing/eval process here so others can recreate your work easily. 
 
-## Usage
+### Usage
 - Share example usage code or describe how someone might apply your solution to their own domain. 
