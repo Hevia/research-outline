@@ -10,9 +10,10 @@ Some more advice before you get started:
 
 # Research Outline:
 Use this section to set an outline and guiding vision describing your work. 
-## The Problem (What)
-- A brief description of the problem we're hoping to solve with our work.
 
+### The Problem (What)
+- A brief description of the problem we're hoping to solve with our work.
+- 
 ### Why even do this? (Why)
 - An overview of why this would matter and why it is worth solving.
 
